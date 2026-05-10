@@ -1,0 +1,5 @@
+{
+  "name": "Heart Disease Prediction",
+  "description": "A secure, blockchain-verified heart disease prediction system featuring Explainable AI and medical safety overrides for trustworthy clinical decision support.",
+  "requestFramePermissions": []
+}
